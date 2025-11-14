@@ -6,12 +6,12 @@ Python multi-threaded RTSP viewer with OpenCV decoding and dynamic resizing.
 - live stream 1–4 RTSP cameras  
 - 4-camera 2×2 grid layout  
 - click any camera to toggle fullscreen  
-- press **F** to toggle fill/stretch mode  
-- requires at least 1 camera (empty slots auto-filled)
+- press **F** to toggle fill / stretch mode  
+- 1 camera minimum
 
 ## Dependencies
 
-Install required system packages:
+Install required packages:
 
 ```
 sudo apt-get update
@@ -26,7 +26,7 @@ pip3 install Pillow opencv-python
 
 ## Directions
 
-### 1. Add 1–4 cameras
+### 1. Add 1–4 cameras to the config
 
 Edit `config.json`:
 
@@ -42,7 +42,7 @@ Edit `config.json`:
 ]
 ```
 
-### 2. Make the script executable
+### 2. Make executable
 
 ```
 chmod +x fosgrid.py
