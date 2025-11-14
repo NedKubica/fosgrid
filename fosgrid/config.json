@@ -1,0 +1,9 @@
+[
+  {
+    "ip": "192.168.0.198",
+    "port": 88,
+    "username": "username",
+    "password": "password",
+    "path": "/videoMain"
+  }
+]
