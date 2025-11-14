@@ -9,10 +9,6 @@ Python multi-threaded RTSP viewer with OpenCV decoding and dynamic resizing.
 - press **F** to toggle fill / stretch mode
 - 1 camera minimum
 
-## Preview
-
-![fosgrid 4-camera preview](preview/fosgrid-4cams.png)
-
 ## Dependencies
 
 Install required packages:
@@ -57,3 +53,4 @@ chmod +x fosgrid.py
 ```
 ./fosgrid.py
 ```
+
