@@ -1,5 +1,5 @@
 # Compatible Cameras
 
-| Manufacturer | Model | Working |
+| Manufacturer | Model | Status |
 |-------------|--------|---------|
 | Foscam      | R2     | Compatible |
